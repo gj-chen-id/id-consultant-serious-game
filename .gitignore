@@ -12,6 +12,9 @@ screenshot-*.png
 setup-github.sh
 DEPLOY.md
 
+# 本機 git 速查卡
+local-git-cheatsheet.md
+
 # macOS
 .DS_Store
 .AppleDouble
