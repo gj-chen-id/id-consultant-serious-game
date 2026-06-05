@@ -62,11 +62,10 @@
 ## 使用方式
 
 ### 線上版（推薦）
-👉 **https://[your-github-username].github.io/id-consultant-game/**
-（拿到 URL 後請更新此處）
+👉 **https://gj-chen-id.github.io/id-consultant-serious-game/**
 
 ### 離線單機版
-1. 下載 `game.html`
+1. 下載 `index.html`
 2. 用瀏覽器打開（雙擊即可，無需安裝）
 3. 進度儲存於瀏覽器 localStorage，**清除 cookies/site data 會遺失進度**
 
