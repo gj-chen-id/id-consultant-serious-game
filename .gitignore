@@ -1,0 +1,36 @@
+# Case scripts (含完整劇本 / 評分邏輯，避免合作者看到 spoilers)
+cases/
+game-design-notes.md
+
+# 本地備份
+skills-backup/
+
+# 截圖、開發用 artifacts
+screenshot-*.png
+
+# 本地部署腳本（含個人 GitHub 帳號資訊）
+setup-github.sh
+DEPLOY.md
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node modules (未來如果加 dev tooling)
+node_modules/
+
+# 本地測試用 server
+.cache/
+dist/
